@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moviehub_project/static/css/main.75d207e6.chunk.css",
+    "main.js": "/moviehub_project/static/js/main.fda79031.chunk.js",
+    "main.js.map": "/moviehub_project/static/js/main.fda79031.chunk.js.map",
+    "runtime-main.js": "/moviehub_project/static/js/runtime-main.728725ed.js",
+    "runtime-main.js.map": "/moviehub_project/static/js/runtime-main.728725ed.js.map",
+    "static/css/2.1d9ddd8f.chunk.css": "/moviehub_project/static/css/2.1d9ddd8f.chunk.css",
+    "static/js/2.e08ef965.chunk.js": "/moviehub_project/static/js/2.e08ef965.chunk.js",
+    "static/js/2.e08ef965.chunk.js.map": "/moviehub_project/static/js/2.e08ef965.chunk.js.map",
+    "index.html": "/moviehub_project/index.html",
+    "precache-manifest.5d5a0bcf118373dbb3eaf4e88cafb741.js": "/moviehub_project/precache-manifest.5d5a0bcf118373dbb3eaf4e88cafb741.js",
+    "service-worker.js": "/moviehub_project/service-worker.js",
+    "static/css/2.1d9ddd8f.chunk.css.map": "/moviehub_project/static/css/2.1d9ddd8f.chunk.css.map",
+    "static/css/main.75d207e6.chunk.css.map": "/moviehub_project/static/css/main.75d207e6.chunk.css.map",
+    "static/js/2.e08ef965.chunk.js.LICENSE.txt": "/moviehub_project/static/js/2.e08ef965.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/moviehub_project/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728725ed.js",
+    "static/css/2.1d9ddd8f.chunk.css",
+    "static/js/2.e08ef965.chunk.js",
+    "static/css/main.75d207e6.chunk.css",
+    "static/js/main.fda79031.chunk.js"
+  ]
+}
